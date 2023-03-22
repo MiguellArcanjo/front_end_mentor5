@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lexend+Deca&display=swap');
+
+
+body {
+    background: hsl(233, 47%, 7%);
+}
+
+.container {
+    background: hsl(244, 38%, 16%);
+    height: 20rem;
+    width: 60%;
+    position: absolute;
+    bottom: 30%;
+    left: 16%;
+    border-radius: 10px;
+}
+
+.text {
+    font-family: Inter;
+    color: hsl(0, 0%, 100%);
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 60px;
+    bottom: 50%;
+}
+
+.purple {
+    color: hsl(277, 64%, 61%);
+}
+
+.text2 {
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    position: absolute;
+    bottom: 35%;
+    font-size: 12px;
+    left: 60px;
+}
+
+.ten {
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-weight: 700;
+}
+
+.com {
+    font-weight: 400;
+    position: absolute;
+    bottom: -10%;
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-size: 10px;
+}
+
+.icon1 {
+    position: absolute;
+    bottom: 10%;
+    left: 7%;
+}
+
+.number {
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-weight: 700;
+}
+
+.template {
+    font-weight: 400;
+    position: absolute;
+    bottom: -10%;
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-size: 10px;
+}
+
+.icon2 {
+    position: absolute;
+    bottom: 10%;
+    left: 20%;
+}
+
+.doze {
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-weight: 700;
+}
+
+.queries{
+    font-weight: 400;
+    position: absolute;
+    bottom: -10%;
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    font-size: 10px;
+}
+
+.icon3 {
+    position: absolute;
+    bottom: 10%;
+    left: 33%;
+}
+
+.image {
+    border-radius: 10px;
+    position: absolute;
+    height: 320px;
+    left: 432px;
+    
+}
